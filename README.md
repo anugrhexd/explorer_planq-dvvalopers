@@ -41,7 +41,7 @@ Your donation will help us make better products. Thanks in advance.
 
  - Address for ERC20: USDC, USDT, ETH
 ```
-0x88BFec573Dd3E4b7d2E6BfD4D0D6B11F843F8aa1
+0x267Ab25ECa7753108173BE0057eC420Ffb5091aF
 ```
 
  - You can donate any token in the Cosmos ecosystem: [here](https://ping.pub/coffee)
