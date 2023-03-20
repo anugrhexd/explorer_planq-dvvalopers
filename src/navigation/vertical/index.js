@@ -26,29 +26,29 @@ function processMenu() {
   if (isTestnet()) {
     chainMenus.push({
       title: 'Mainnet Explorer',
-      href: 'https://explorer.nodestake.top',
+      href: 'https://jatim-pro-tech.vercel.app/',
       icon: 'ChromeIcon',
     })
   } else {
     chainMenus.push({
       title: 'Website',
-      href: 'http://nodestake.top',
+      href: 'https://jatim-pro-tech.vercel.app/',
       icon: 'LifeBuoyIcon',
     })
   }
   chainMenus.push({
     title: 'Discord',
-    href: 'https://discord.gg/puGTkXvkE8',
+    href: 'https://discord.gg/t3SxJBAj',
     icon: 'EyeIcon',
   })
   chainMenus.push({
     title: 'Twitter',
-    href: 'https://twitter.com/Nodestake_top',
+    href: 'https://twitter.com/anugrahexxe',
     icon: 'TwitterIcon',
   })
   chainMenus.push({
     title: 'Github',
-    href: 'https://github.com/nodestake/explorer',
+    href: 'https://github.com/anugrhexd',
     icon: 'GithubIcon',
   })
 
